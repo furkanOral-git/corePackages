@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dCMEsrD9Idq3NAORSOgl8oMn/V+86W/gM+p6NBbsxow5+Y1jnTsBh1fDSrvbKVoMqScvpgUUwp6T04sW4Lq/sQ==",
+  "dgSpecHash": "fkqxNaEcU4rEHCcT8l2dSC/NHrhz9TH9eAlHYivztgWjZFxkG9Ty8u0fdaue+IkfNV2DrdjnGjKWj9TJyTE/yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan Oral\\Desktop\\SoftwareProjectApi\\corePackages\\Core.Domain\\Core.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Furkan Oral\\Desktop\\DevProje\\corePackages\\Core.Domain\\Core.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
