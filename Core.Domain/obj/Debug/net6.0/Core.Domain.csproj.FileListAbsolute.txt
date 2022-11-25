@@ -34,3 +34,15 @@ C:\Users\Furkan Oral\Desktop\DevProje\corePackages\Core.Domain\obj\Debug\net6.0\
 C:\Users\Furkan Oral\Desktop\DevProje\corePackages\Core.Domain\obj\Debug\net6.0\refint\Core.Domain.dll
 C:\Users\Furkan Oral\Desktop\DevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.pdb
 C:\Users\Furkan Oral\Desktop\DevProje\corePackages\Core.Domain\obj\Debug\net6.0\ref\Core.Domain.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\bin\Debug\net6.0\Core.Domain.deps.json
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\bin\Debug\net6.0\Core.Domain.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\bin\Debug\net6.0\Core.Domain.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.AssemblyReference.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfoInputs.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.AssemblyInfo.cs
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\refint\Core.Domain.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\Core.Domain.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Domain\obj\Debug\net6.0\ref\Core.Domain.dll

@@ -10,3 +10,15 @@ C:\Users\Furkan Oral\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.d
 C:\Users\Furkan Oral\corePackages\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
 C:\Users\Furkan Oral\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.pdb
 C:\Users\Furkan Oral\corePackages\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.deps.json
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.AssemblyReference.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfoInputs.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfo.cs
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CoreCompileInputs.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll

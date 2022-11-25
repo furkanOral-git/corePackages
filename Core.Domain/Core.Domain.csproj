@@ -1,6 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="1.0.0" />
-
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
