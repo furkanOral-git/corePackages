@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan Oral\\corePackages\\Core.Security\\Core.Security.csproj": {}
+    "C:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Security\\Core.Security.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan Oral\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "C:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan Oral\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "C:\\Users\\Furkan Oral\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectPath": "C:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Security\\Core.Security.csproj",
         "packagesPath": "C:\\Users\\Furkan Oral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan Oral\\corePackages\\Core.Security\\obj\\",
+        "outputPath": "C:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Furkan Oral\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

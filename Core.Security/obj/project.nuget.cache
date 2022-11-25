@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "BqVxuRGDbrhRvbasI2QSurK+j7585dCrxxsoxWN7Z/9kywSGxUr0HST/W3PFOrqxeTeIllfSD21fYSmnU0cb7g==",
+  "dgSpecHash": "RH1pDpO0omAmjlYRiWamTDJEOonFo3cMBZyKiq7lYW0f/u5wm+kUpDq79bZ1M0290hKbVS2gPlJavx7Hz06lAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan Oral\\corePackages\\Core.Security\\Core.Security.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Security\\Core.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.25.0\\microsoft.identitymodel.abstractions.6.25.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\microsoft.identitymodel.logging\\6.25.0\\microsoft.identitymodel.logging.6.25.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.25.0\\microsoft.identitymodel.tokens.6.25.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Furkan Oral\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
