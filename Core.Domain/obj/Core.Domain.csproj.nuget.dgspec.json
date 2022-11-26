@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\Core.Domain.csproj": {}
+    "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\Core.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\Core.Domain.csproj": {
+    "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\Core.Domain.csproj",
         "projectName": "Core.Domain",
-        "projectPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\Core.Domain.csproj",
+        "projectPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\Core.Domain.csproj",
         "packagesPath": "C:\\Users\\Furkan Oral\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Furkan Oral\\AppData\\Roaming\\NuGet\\NuGet.Config"

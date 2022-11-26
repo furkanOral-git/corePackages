@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Core.Domain.Entities;
 
-namespace Core.Security.Entities
+namespace Core.Domain.Entities
 {
     public class User : Entity
     {
