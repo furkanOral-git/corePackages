@@ -47,7 +47,6 @@ c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.dll
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.pdb
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\bin\Debug\net6.0\Core.Domain.dll
-c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\bin\Debug\net6.0\SQLHelper.dll
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\bin\Debug\net6.0\Core.Domain.pdb
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig

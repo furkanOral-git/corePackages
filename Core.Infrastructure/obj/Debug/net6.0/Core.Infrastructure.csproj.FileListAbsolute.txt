@@ -1,0 +1,17 @@
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Infrastructure.deps.json
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Infrastructure.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Infrastructure.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Domain.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Security.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Security.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\bin\Debug\net6.0\Core.Domain.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.AssemblyInfo.cs
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.csproj.CopyComplete
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\refint\Core.Infrastructure.dll
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\Core.Infrastructure.pdb
+c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Infrastructure\obj\Debug\net6.0\ref\Core.Infrastructure.dll

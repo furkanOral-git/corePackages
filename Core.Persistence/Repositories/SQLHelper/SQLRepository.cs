@@ -6,7 +6,6 @@ using Core.Application.Repositories;
 using Core.Domain.Entities;
 using SQLHelper;
 
-
 namespace Core.Persistence.Repositories.SQLHelper
 {
     public abstract class SQLRepository<TEntity> : IRepository<TEntity>

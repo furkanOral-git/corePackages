@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Core.Domain.Models
+namespace Core.Contracts
 {
     public class BasePageModel<T> where T : class, new()
     {
