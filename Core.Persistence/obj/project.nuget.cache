@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OnARwsazMTiHVIpbmUudK7VW+z/Q81DGXaqIWSceOnzinwlnmsRwarc8/ijgMgxeiUYrdAiFd64kkrn6HoI6fA==",
+  "dgSpecHash": "nmBdbq9k4nBZKwZVM716onZbrrsmV4lr03yDg1ZNqJRbHFB5+Sm3P3hn1TgyfM0No9e1OEvbr2Cv3iHKD5PRPA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

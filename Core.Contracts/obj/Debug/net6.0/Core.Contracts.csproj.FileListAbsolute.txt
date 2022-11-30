@@ -10,3 +10,15 @@ c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Contracts\ob
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Contracts\obj\Debug\net6.0\refint\Core.Contracts.dll
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.pdb
 c:\Users\Furkan Oral\Desktop\DomainDrivenDevProje\corePackages\Core.Contracts\obj\Debug\net6.0\ref\Core.Contracts.dll
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\bin\Debug\net6.0\Core.Contracts.deps.json
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\bin\Debug\net6.0\Core.Contracts.dll
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\bin\Debug\net6.0\Core.Contracts.pdb
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.csproj.AssemblyReference.cache
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.AssemblyInfoInputs.cache
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.AssemblyInfo.cs
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.dll
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\refint\Core.Contracts.dll
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\Core.Contracts.pdb
+C:\Users\Furkan Oral\Desktop\DevProject\corePackages\Core.Contracts\obj\Debug\net6.0\ref\Core.Contracts.dll

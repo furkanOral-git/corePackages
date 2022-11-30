@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
       "projectName": "Core.Persistence",
-      "projectPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+      "projectPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
       "packagesPath": "C:\\Users\\Furkan Oral\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Furkan Oral\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -70,11 +70,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Application\\Core.Application.csproj": {
-              "projectPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Application\\Core.Application.csproj"
+            "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Application\\Core.Application.csproj": {
+              "projectPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Application\\Core.Application.csproj"
             },
-            "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\Core.Domain.csproj": {
-              "projectPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Domain\\Core.Domain.csproj"
+            "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Domain\\Core.Domain.csproj"
             }
           }
         }

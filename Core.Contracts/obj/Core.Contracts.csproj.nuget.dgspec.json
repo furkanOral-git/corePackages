@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Contracts\\Core.Contracts.csproj": {}
+    "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Contracts\\Core.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Contracts\\Core.Contracts.csproj": {
+    "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Contracts\\Core.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Contracts\\Core.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Contracts\\Core.Contracts.csproj",
         "projectName": "Core.Contracts",
-        "projectPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Contracts\\Core.Contracts.csproj",
+        "projectPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Contracts\\Core.Contracts.csproj",
         "packagesPath": "C:\\Users\\Furkan Oral\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Furkan Oral\\Desktop\\DomainDrivenDevProje\\corePackages\\Core.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Furkan Oral\\Desktop\\DevProject\\corePackages\\Core.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Furkan Oral\\AppData\\Roaming\\NuGet\\NuGet.Config"

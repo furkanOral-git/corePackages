@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Core.Contracts
 {
-    public class BasePageModel<T> where T : class, new()
+    public class PageModel<T> : IPaginate<T> where T : class, new()
     {
         public T[]? Items { get; private set; }
         public int CurrentPage { get; init; }
@@ -15,14 +15,14 @@ namespace Core.Contracts
         public bool HasPrevious { get; private set; }
         public bool HasNext { get; private set; }
 
-        public BasePageModel(int currentPage, int pageSize, T[] data)
+        public PageModel(int currentPage, int pageSize, T[] data)
         {
             CurrentPage = currentPage;
             PageSize = pageSize;
             Items = Paginate(data);
         }
 
-        private T[] Paginate(T[] data)
+        public T[] Paginate(T[] data)
         {
             TotalItemCount = data.Length;
             if (TotalItemCount % PageSize > 0) TotalPageCount = (TotalItemCount / PageSize) + 1;
