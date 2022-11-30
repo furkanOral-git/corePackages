@@ -5,6 +5,6 @@ using System.Threading.Tasks;
 
 namespace Core.Contracts.Reponses
 {
-    public record SuccessAuthenticationResponse<TId>(TId id, string userName, string email, string token);
-    
+    public record SuccessAuthenticationResponseWithName<TId>(TId id, string firstName, string lastName, string email, string token);
+
 }
